@@ -1,0 +1,14 @@
+{
+    "FI":{
+        "kieli":"fi",
+        "toiminto":"/talletatiedot",
+        "kentat":[
+            {"nimi":"title", "tyyppi":"text", "name":"title"},
+            {"nimi":"category", "tyyppi":"text", "name":"category"},
+            {"nimi":"release_year", "tyyppi":"text", "name":"release_year"}
+        ],
+        "laheta":"Lähetä tiedot",
+        "valikkoteksti":"Valikko"
+
+    }
+}
