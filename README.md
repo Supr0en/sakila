@@ -1,3 +1,3 @@
 # sakila
 
-Tässä tehtävässä tehtiin kuvittelliselle elokuva vuokraamolle netti sivut jossa käytetiin tietokantaa ja ejs sivuja.
+Tässä tehtävässä tehtiin kuvittelliselle elokuva vuokraamolle netti sivut jossa käytetiin ejs, css, javascript, mariadb tietokantaa je expressiä.
